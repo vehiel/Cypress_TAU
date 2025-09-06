@@ -1,0 +1,23 @@
+[
+{
+	"name": "Marlon",
+    "lastName1": "Valencia",
+    "lastName2": "Campos",
+    "sexCode": 2,
+    "professionGroup": "INGENIERIAS"
+},
+{
+	"name": "Mario",
+    "lastName1": "RUIZ",
+    "lastName2": "CAMPOS",
+    "sexCode": 1,
+    "professionGroup": "INGENIERIAS"
+},
+{
+	"name": "Josue",
+    "lastName1": "Flores",
+    "lastName2": "Cubero",
+    "sexCode": 1,
+    "professionGroup": "INGENIERIAS"
+}
+]
