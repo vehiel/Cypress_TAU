@@ -17,3 +17,4 @@
 import './commands'
 import './commands/getByPlaceholder'
 import './commands/addNewItem'
+import './commands/obtenerUsuarios'
